@@ -9,15 +9,15 @@
           figure
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 #[b Objetivo] 
+        .titulo-segundo.color-acento-contenido
+          h2 Marco General de la RIAMP
+        p.mb-4 Identificar el Marco General de la Ruta Integral de Atención en Salud a la población Materno Perinatal (RIAMP) para la atención segura de  la mujer y el niño o la niña, acorde a los lineamientos técnicos y operativos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Verdadero/Falso
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
