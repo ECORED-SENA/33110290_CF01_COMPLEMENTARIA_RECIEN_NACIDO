@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/33110290_CF01_COMPLEMENTARIA_RECIEN_NACIDO/](https://ecored-sena.github.io/33110290_CF01_COMPLEMENTARIA_RECIEN_NACIDO/)
 
 #
 
