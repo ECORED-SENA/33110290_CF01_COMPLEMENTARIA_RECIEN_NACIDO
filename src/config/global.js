@@ -385,7 +385,7 @@ export default {
         },
         {
           nombre: 'Blanca Flor Tinoco Torres',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },

@@ -20,7 +20,7 @@
         img(src='@/assets/curso/temas/t2/img.svg' alt='')
     
     .row.align-items-center
-      .col-md-1.mb-4(data-aos="fade-right")
+      .col-md-1.col-4.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/ico.svg' alt='')
       .col-md-11.mb-4(data-aos="fade-left")
         p.mb-0 Para dar respuesta ante un posible riesgo, es importante la elaboración de la historia clínica, en la que se deben tener en cuenta los factores de riesgo biológico y psicosocial que se definen en el sistema de información perinatal, también conocido como CLAP (Centro Americano de Perinatología). En la siguiente imagen se muestra un ejemplo del diligenciamiento de una historia clínica perinatal:
@@ -34,9 +34,9 @@
           p.mb-0 Nota. Control prenatal y atención materno perinatal. Tomado de Secretaria seccional de Salud Antioquia y Protección Social de Antioquia (2016).
 
     .row.align-items-center
-      .col-md-1.mb-4(data-aos="fade-right")
+      .col-lg-1.col-md-2.col-4.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/ico2.svg' alt='')
-      .col-md-11.mb-4(data-aos="fade-left")
+      .col-lg-11.col-md-10.mb-4(data-aos="fade-left")
         p.mb-0 Esta historia clínica debe ser realizada antes del nacimiento teniendo en cuenta que de esta información depende una atención adecuada y que se cuente con los recursos necesarios para el seguimiento y preparación en cuanto a talento humano, equipos, insumos y demás necesidades que puedan presentarse en atención del parto, nacimiento y programas para el posparto.
 
     p.mb-4(data-aos="fade") Las Rutas Integrales de Atención en Salud tienen dentro de esta historia un papel fundamental con la ruta de consumo de sustancias psicoactivas e infecciones que también se deben considerar como factores de riesgo, y que necesitan un manejo diferencial del recién nacido en su etapa neonatal y después del egreso hospitalario. Los aspectos a tener en cuenta en la realización de la historia clínica perinatal se muestran a continuación:
@@ -48,25 +48,25 @@
         img(src='@/assets/curso/temas/t2/fig7.svg' alt='Los aspectos fundamentales a tener en cuenta en una historia clínica son el control preconcepcional, prenatal y puerperio.')
 
     .row(data-aos="fade-down")
-      .col-md-4.mb-4
+      .col-lg-4.mb-4
         p Identificados los factores de riesgo encontrados en la Historia Clínica y la atención Preconcepcional, el enfoque de riesgo antenatal debe trabajar de la mano con las demás entidades que conforman el sistema de salud, las cuales podrán realizar seguimiento, que implica un manejo perinatal o postnatal del recién nacido, teniendo en cuenta las distintas situaciones que se pueden presentar en la atención de las primeras 24 horas de vida, especialmente en el proceso de adaptación neonatal inmediata y mediata, con el fin de aplicar los procedimientos encontrados en las guías y protocolos establecidos en manejo materno perinatales.
         img(src='@/assets/curso/temas/t2/adorn1.svg' alt='' style="width: 80px;")
-      .col-md-3.mb-4
+      .col-lg-3.col-8.mb-4
         img(src='@/assets/curso/temas/t2/img2.png' alt='')
-      .col-md-5.mb-4
+      .col-lg-5.mb-4
         .tarjeta.bg-5.p-4.mb-3
           .row.align-items-center
             .col-md-8
-              p.mb-0 La RIAMP en el ejercicio de orientación para la operación y desarrollo de actividades, incluye los distintos parámetros en la gestión de intervenciones colectivas, familiares e individuales que se encuentran contenidos en la ruta. 
-            .col-md-4
+              p.mb-md-0 La RIAMP en el ejercicio de orientación para la operación y desarrollo de actividades, incluye los distintos parámetros en la gestión de intervenciones colectivas, familiares e individuales que se encuentran contenidos en la ruta. 
+            .col-md-4.col-4
               img(src='@/assets/curso/temas/t2/ico3.svg' alt='')
         .tarjeta.bg-6.p-4
           p.mb-0 El talento humano en salud debe ser parte del proceso para llegar a los resultados esperados, los cuales, a través de indicadores, se miden los avances y el impacto que representa cada una de las intervenciones aplicadas por las RIAS, con enfoque materno perinatal, permitiendo realizar una trazabilidad de la información y monitorear los resultados de la atención.
 
     .row.justify-content-center
-      .col-md-4.mb-4(data-aos="fade-right")
+      .col-lg-4.col-8.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/img3.svg' alt='')
-      .col-md-8.mb-4(data-aos="fade-left")
+      .col-lg-8.mb-4(data-aos="fade-left")
         p Las intervenciones que son consideradas como Protección Específica y Detección Temprana se definen así:
         ul.lista-ul--color.fa-ul.mb-3.ps-3
           li.mb-0 
@@ -74,7 +74,7 @@
             | Atención Antenatal.
           li.mb-0 
             i.fas.fa-chevron-right
-            | Interrupción Voluntaria del Embarazo (IVE)
+            | Interrupción Voluntaria del Embarazo (IVE).
           li.mb-0 
             i.fas.fa-chevron-right
             | Control Prenatal.
@@ -118,9 +118,9 @@
       h2 2.1  Factores de riesgo antenatal
 
     .row.justify-content-center.align-items-center
-      .col-lg-1.col-3.mb-4.mb-md-5.pe-md-0(data-aos="fade-right")
+      .col-lg-1.col-md-2.col-3.mb-4.mb-md-5.pe-md-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/adorn2.svg' alt='')  
-      .col-lg-11.col-12.mb-4.mb-md-5(data-aos="fade-left")
+      .col-lg-11.col-md-10.col-12.mb-4.mb-md-5(data-aos="fade-left")
         p.mb-0 Para entender mejor lo que se puede encontrar en el abordaje con enfoque antenatal, a continuación, se definen los factores de riesgo con mayor relevancia, de acuerdo con Enfermeriacelayane (2018):
 
     .row.justify-content-center
@@ -136,11 +136,11 @@
             p 
               span.t-purple.fw-bold Edad materna baja: 
               | La edad temprana para el desarrollo de la concepción también es un factor de riesgo en las cuales se pueden encontrar malformaciones prematuras entre otros defectos congénitos. Esto sin mencionar que son un riesgo alto en la morbilidad durante su embarazo y sobre todo al trabajo de parto.
-      .col-md-4.mb-4(data-aos="fade-left")
+      .col-md-4.col-8.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/img4.png' alt='')
 
     .row.justify-content-center
-      .col-md-4.mb-4(data-aos="fade-right")
+      .col-md-4.col-8.d-none.d-md-block.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/img5.png' alt='')
       .col-md-8.mb-4(data-aos="fade-left")
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-4")
@@ -228,16 +228,16 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
           
-          .col-lg-1.col-3.mb-4.mb-md-5.pe-md-0
+          .col-lg-1.col-md-2.col-3.mb-4.mb-md-5.pe-md-0
             img(src='@/assets/curso/temas/t2/adorn3.svg' alt='')  
-          .col-lg-11.col-12.mb-4.mb-md-5
+          .col-lg-11.col-md-10.col-12.mb-4.mb-md-5
             p.mb-0 La probabilidad que tiene un individuo de experimentar un daño se define como riesgo. El riesgo materno perinatal se evalúa con relación a los eventos presentados que representan probabilidad de daño para la madre o el niño o niña y que sus características tienen varios factores como: biológico, social o ambiental y están en el entorno del individuo.
 
           .row.justify-content-center
-            .col-md-4.mb-4.mb-md-5(data-aos="fade-right")
+            .col-lg-4.col-md-4.col-8.mb-4.mb-md-5(data-aos="fade-right")
               img(src='@/assets/curso/temas/t2/img6.png' alt='')
-            .col-md-6.mb-4.mb-md-5(data-aos="fade-left")
-              .tarjeta.border-bottom-secundario.bg-white.h-100.d-flex.align-items-center.p-4.px-md-5
+            .col-lg-6.col-md-8.mb-4.mb-md-5(data-aos="fade-left")
+              .tarjeta.border-bottom-secundario.bg-white.h-100.d-flex.align-items-center.p-4.px-md-5.d-none.d-md-block
                 SlyderE(indicadores="derecha")
                   .row
                     h4 Indicadores de riesgo materno perinatal
@@ -246,6 +246,14 @@
                   .row
                     h4 Acciones de prevención de riesgo materno perinatal
                     p Se generan estrategias que permitan educar para la salud, como acciones de prevención frente al riesgo materno y perinatal, aplicando herramientas desde la preconcepción, orientando de manera oportuna e identificando los factores de riesgo encontrados en el área reproductiva, contribuyen a evitar los riesgos durante la concepción.
+              .tarjeta.border-bottom-secundario.bg-white.p-4.px-md-5.d-block.d-md-none
+                .row
+                  h4 Indicadores de riesgo materno perinatal
+                  p Se establecen mediante la trazabilidad de datos donde se identifica la morbimortalidad de la madre o el niño o niña como resultado del manejo inadecuado en el proceso reproductivo. En estos datos se da a conocer el número de nacidos vivos, indicadores que permiten en la medicina perinatal, tener datos para mortalidad materna y mortalidad perinatal, sin dejar de lado los indicadores para morbilidad; aunque por su frecuencia son susceptibles a subregistros en la información que se traza. 
+                  p Estos indicadores tienen como objeto, evaluar y comparar el nivel de desarrollo cultural, social y económico del área a investigar, ya sea departamento o municipio; además del desarrollo y la efectividad de los programas locales de atención materno infantil.
+                .row
+                  h4 Acciones de prevención de riesgo materno perinatal
+                  p Se generan estrategias que permitan educar para la salud, como acciones de prevención frente al riesgo materno y perinatal, aplicando herramientas desde la preconcepción, orientando de manera oportuna e identificando los factores de riesgo encontrados en el área reproductiva, contribuyen a evitar los riesgos durante la concepción.
 
           .col-md-10(data-aos="fade")
             p Algunas acciones relacionadas al talento humano para la atención materno perinatal se pueden observar en el siguiente gráfico:
@@ -264,30 +272,30 @@
       h2 2.3  Control prenatal
 
     .row.justify-content-center
-      .col-md-3.mb-4(data-aos="fade-right")
+      .col-md-3.col-5.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/img7.svg' alt='')
       .col-md-9.mb-4(data-aos="fade-left")
         p Tiene como objetivo realizar un análisis temprano e identificación de factores de riesgo que pueden presentarse durante la etapa gestacional mediante acciones trabajadas en conjunto con actividades que promueven una buena salud materna, desarrollo normal del feto y las condiciones óptimas que debe tener el recién nacido en aspectos que conforman la valoración física, salud mental y emocional.
         .row.align-items-center
-          .col-lg-1.col-3.mb-3.mb-lg-0.pe-md-0
+          .col-lg-1.col-md-2.col-3.mb-3.mb-lg-0.pe-md-0
             img(src='@/assets/curso/temas/t2/adorn3.svg' alt='')  
-          .col-lg-11.col-12
+          .col-lg-11.col-md-10.col-12
             p.mb-0 El seguimiento llevado para el control prenatal está categorizado en: precoz, periódico, de calidad, integral, universal, y que garantice la accesibilidad del usuario a la institución más cercana. Dentro de los objetivos del control prenatal se encuentran:
     
     .row.fondo-t2.align-items-center.pt-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
 
-          .col-md-8.mb-5(data-aos="fade")
+          .col-lg-8.mb-5(data-aos="fade")
             .titulo-sexto.color-acento-contenido
               p.mb-0 #[b Figura 9.] Objetivos del control prenatal
             img(src='@/assets/curso/temas/t2/fig9.svg' alt='Los objetivos del control prenatal buscan la idenficación de factores de riesgo, diágnostico gestacional, crecimiento fetal y promoción y prevención.')
 
           .row.justify-content-center(data-aos="fade-down")
-            .col-md-2.pe-md-0
+            .col-lg-2.col-md-3.col-6.pe-md-0
               .h-100.d-flex.align-items-center.bg-2
                 img(src='@/assets/curso/temas/t2/img8.svg' alt='')
-            .col-md-8.ps-md-0
+            .col-lg-8.col-md-9.ps-md-0
               .h-100.d-flex.align-items-center.bg-3.p-4
                 p.mb-0 La identificación de factores que contribuyen con mayor relevancia a la morbilidad del recién nacido encontradas en la prematurez, como malformaciones congénitas, infecciones y asfixia perinatal; cumplen un papel fundamental en el diagnóstico de enfermedades que son presentadas en algunas ocasiones en el desarrollo de la gestación, por lo que debe constituirse en prioridad en el control prenatal.
 

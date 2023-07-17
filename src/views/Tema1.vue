@@ -9,14 +9,14 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-8.col-12.mb-4(data-aos="fade-right")
-        p El marco normativo en la Ruta Integral de Atención Materno Perinatal es una herramienta operativa de obligatorio cumplimiento a nivel nacional, en la cual se encuentran los lineamientos a seguir para la atención segura del recién nacido y la mujer, incluyendo su entorno familiar, comunitario y social de manera que se garantice un acceso universal en el que se vean involucrados. La población objeto está destinada a mujeres con intención reproductiva en menos de un año donde se podrán identificar factores de riesgo e intervenirlos buscando garantizar la salud no solo de la mujer sino además de la familia.
+        p El marco normativo en la Ruta Integral de Atención Materno Perinatal es una herramienta operativa de obligatorio cumplimiento a nivel nacional, en la cual se encuentran los lineamientos a seguir para la atención segura del recién nacido y la mujer, incluyendo su entorno familiar, comunitario y social de manera que se garantice un acceso universal en el que se vean involucrados. La población objeto está destinada a mujeres con intención reproductiva en menos de un año, donde se podrán identificar factores de riesgo e intervenirlos buscando garantizar la salud no solo de la mujer sino además de la familia.
         .bg-1.tarjeta.p-3
           .row.align-items-center
-            .col-md-2.col-5.mb-4.mb-md-0
+            .col-md-2.col-4.mb-4.mb-md-0
               img(src='@/assets/curso/temas/t1/ico.svg' alt='')
             .col-md-10
               p.mb-0 Las instituciones hacen parte fundamental en el proceso de conocer cuáles son esos lineamientos técnicos y operativos que le permitirán la atención segura del recién nacido y la mujer; y determinar si la intervención será de manera colectiva o una intervención individual.   
-      .col-lg-4.col-6.mb-4(data-aos="fade-left")
+      .col-lg-4.col-8.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/img.svg' alt='') 
 
     p.mb-4(data-aos="fade") Cada intervención tiene subdivisiones las cuales afianzan al equipo de talento humano en salud a reconocer la mejor ruta. 
@@ -52,7 +52,7 @@
 
           .row
             .col-lg-4.mb-4(data-aos="fade-right")
-              p El INS (Instituto Nacional de Salud) por medio de la vigilancia realizada, y a través de las siguientes gráficas, permite dar a conocer, los índices de mortalidad desde el año 2008 con seguimiento hasta el año 2019 donde se evidencia cómo las tasas de mortalidad son disminuidas después de un incremento, gracias al control realizado, demostrando que la orientación y la activación de los diferentes lineamientos que hoy en día son aplicados desde la normativa contenida en la Resolución 3280 de 2018, seguirá fortaleciendo estos aspectos que mejora la calidad de vida de la madre, niña o niño de acuerdo a los eventos presentados desde la etapa perinatal y neonatal:
+              p El Instituto Nacional de Salud (INS) ha realizado una vigilancia exhaustiva y a través de las siguientes gráficas se presentan los índices de mortalidad desde el año 2008 hasta el año 2019. Estos datos evidencian una disminución en las tasas de mortalidad después de un aumento inicial, gracias al control y seguimiento realizado. Esto demuestra que la implementación de los lineamientos establecidos en la Resolución 3280 de 2018 ha contribuido a mejorar la calidad de vida de las madres, niños y niñas, especialmente durante las etapas perinatal y neonatal:
             .col-lg-8.mb-4(data-aos="fade-left")
               .bg-10.tarjeta.p-4
                 SlyderA(tipo="b")
@@ -86,34 +86,34 @@
                   | La Ruta Integral de Atención en Salud
                 li.mb-0 
                   span.text-bold.t-purple b. 
-                  | Atención preconcepcional,
+                  | Atención preconcepcional
                 li.mb-0 
                   span.text-bold.t-purple c. 
                   | IVE (Interrupción Voluntaria del Embarazo)
                 li.mb-0 
                   span.text-bold.t-purple d. 
-                  | Cuidado materno perinatal,
+                  | Cuidado materno perinatal
                 li.mb-0 
                   span.text-bold.t-purple e. 
-                  | Curso de preparación para la maternidad y paternidad,
+                  | Curso de preparación para la maternidad y paternidad
                 li.mb-0 
                   span.text-bold.t-purple f. 
-                  | Atención en salud oral,
+                  | Atención en salud oral
                 li.mb-0 
                   span.text-bold.t-purple g. 
-                  | Promoción la sana alimentación y procesos de nutrición,
+                  | Promoción a la sana alimentación y procesos de nutrición
                 li.mb-0 
                   span.text-bold.t-purple h. 
-                  | Atención del parto y el puerperio,
+                  | Atención del parto y el puerperio
                 li.mb-0 
                   span.text-bold.t-purple i. 
-                  | Complicaciones obstétricas,
+                  | Complicaciones obstétricas
                 li.mb-0 
                   span.text-bold.t-purple j. 
-                  | Complicaciones en el recién nacido,
+                  | Complicaciones en el recién nacido
                 li.mb-0 
                   span.text-bold.t-purple k. 
-                  | Atención del recién nacido,
+                  | Atención del recién nacido
                 li.mb-0 
                   span.text-bold.t-purple l. 
                   | Seguimiento del recién nacido
@@ -168,8 +168,8 @@
           .col-lg-10
             .tarjeta.bg-1.p-4
               .row.align-items-center
-                .col-md-2.mb-4
-                  img.px-md-3(src='@/assets/curso/temas/t1/ico3.svg' alt='')
+                .col-md-2.col-4.mb-4
+                  img.px-lg-3(src='@/assets/curso/temas/t1/ico3.svg' alt='')
                 .col-md-10.mb-4
                   p.mb-0 Gracias a la Ley Estatutaria, el equipo que conforma el talento humano en salud se convierte en un profesional con autonomía, permitiendo que su trabajo sea autorregulado con ética, racionalidad y aplicando la evidencia científica; esto no significa que no se encuentren excepciones dentro del sistema de salud, teniendo en cuenta que también se contará con la orientación del Ministerio de Salud y Protección Social, quien define qué tipo de tratamientos no pueden ser recibidos dentro del sistema de salud.
                 .col-md-12
@@ -225,12 +225,12 @@
           .col-12
             .tarjeta.bg-7.p-3
               .row.align-items-center
-                .col-md-1
+                .col-lg-1.col-md-2
                   img.mx-auto(src='@/assets/curso/temas/t2/ico4.svg' alt='' style="width: 85px;")  
-                .col-md-11
+                .col-lg-11.col-md-10
                   p.text-white.mb-0 Para entender mejor la decisión de la corte constitucional frente a la atención en salud, se sugiere ver el documento completo de 
                     span.etiqueta.et2.fw-bold Preguntas y Respuestas sobre la ley Estatutaria
-                    |  del Ministerio de salud, que se encuentra en el material complementario.
+                    |  del Ministerio de Salud, que se encuentra en el material complementario.
 
 
 
@@ -262,7 +262,7 @@
               h5 Un elemento operativo llamado Modelo Integral de Atención en Salud (MIAS) 
               p Es el que orienta cómo se debe operar ese sistema de salud y los agentes que lo componen.
           
-          p.mb-4(data-aos="fade") La Política de Atención Integral en Salud (PAIS) y el Modelo Integral de Atención en Salud (MIAS) busca intencionalmente reconocer que la ley estatutaria se encuentra detrás de todas las situaciones de salud, donde están los determinantes sociales, desde el Marco del Plan Decenal de Salud Pública (PDSP) y que son recogidas desde la Ley Estatutaria. Estos especifican que no todas las situaciones de salud tienen que ver con el sistema de salud siempre y cuando no se tenga que resolver desde los determinantes. Deben ser puntualizados y darle a los diferentes sectores sociales e instituciones del gobierno, la información de las situaciones o determinantes que se deben resolver. La siguiente figura permite resumir esta política:
+          p.mb-4(data-aos="fade") La Política de Atención Integral en Salud (PAIS) y el Modelo Integral de Atención en Salud (MIAS) busca intencionalmente reconocer que la ley estatutaria se encuentra detrás de todas las situaciones de salud, donde están los determinantes sociales, desde el Marco del Plan Decenal de Salud Pública (PDSP) y que son recogidas desde la ley estatutaria. Estos especifican que no todas las situaciones de salud tienen que ver con el sistema de salud siempre y cuando no se tenga que resolver desde los determinantes. Deben ser puntualizados y darle a los diferentes sectores sociales e instituciones del gobierno, la información de las situaciones o determinantes que se deben resolver. La siguiente figura permite resumir esta política:
 
           .row.justify-content-center.mb-4
             .col-lg-4.mb-4(data-aos="fade-right")
@@ -281,8 +281,8 @@
 
           figure(data-aos="fade-down")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video.
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/DJ34vo4-jGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption Video. Curso Atención Integral en Salud al Recién Nacido
 
 
     Separador
@@ -292,13 +292,13 @@
       h2 1.3  Ruta Integral de Atención Materno Perinatal
 
     .row.justify-content-center.mb-md-5
-      .col-lg-3.col-md-8.mb-4(data-aos="fade-right")
+      .col-lg-3.col-md-8.col-9.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/img4.png' alt='')
       .col-lg-9.col-md-12.mb-4(data-aos="fade-left")
         p Las Rutas Integrales de Atención en Salud (RIAS) son aquellas que permiten las condiciones necesarias para acceder a los servicios de la salud, asegurando una atención integral, por parte de los diferentes agentes que conforman el sistema de salud (territorio, asegurador, prestador y otras instituciones)
         p Estas rutas de atención definen cuál es la manera de dar respuesta e indican cuál es nivel de atención, el tipo de atención y la intervención que requiere el individuo, así como las acciones que permiten la promoción de la salud y la prevención de la enfermedad, diagnóstico, tratamiento, rehabilitación y paliación. Todo con el fin de dar cumplimiento al derecho fundamental a la salud, con respuesta al mantenimiento y recuperación de la salud.
         .row
-          .col-md-3
+          .col-md-3.col-4
             .bg-8.h-100.tarjeta.d-flex.align-items-center
               img(src='@/assets/curso/temas/t1/img5.svg' alt='')
           .col-md-9
@@ -313,7 +313,7 @@
           h3.t-purple La Ruta Integral de Atención con enfoque en lo Materno
           .linea.mb-4
           p Centrada en las mujeres embarazadas, su proceso de gestación, la familia, comunidad; respetando la cultura, el contexto social, y las necesidades específicas individuales.
-          p Apuntando a una atención más segura y de calidad de manera eficaz, eficiente y equitativa. Materno Perinatal.
+          p Apuntando a una atención más segura y de calidad de manera eficaz, eficiente y equitativa.
 
       .row.align-items-center.justify-content-center
         .col-lg-7.mb-4.order-2.order-lg-1
@@ -356,7 +356,7 @@
               img(src='@/assets/curso/temas/t1/img10.png' alt='')
             .col-lg-7.col-12
               h4.text-white Gestión de intervenciones definidas en la Ruta Integral de Atención Materno Perinatal (RIAMP)
-              .tarjeta.border-bottom-verde.bg-white.p-4.px-md-5
+              .tarjeta.border-bottom-verde.bg-white.p-4.px-md-5.d-none.d-md-block
                 SlyderE(indicadores="derecha")
                   .row
                     h5 Consulta externa
@@ -384,7 +384,7 @@
                     ul.lista-ul--color.fa-ul.mb-3
                       li.mb-0 
                         i.fas.fa-chevron-right
-                        | Ecografías Gineco-obstétrica 
+                        | Ecografías gineco-obstétrica
                       li.mb-0 
                         i.fas.fa-chevron-right
                         | Citología vaginal 
@@ -469,8 +469,120 @@
                       li.mb-0 
                         i.fas.fa-chevron-right
                         | Infecciones de Transmisión Sexual ITS
+              .tarjeta.border-bottom-verde.bg-white.p-4.px-md-5.d-md-none.d-block
+                .row
+                  h5 Consulta externa
+                  ul.lista-ul--color.fa-ul.mb-3
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Medicina general 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Planificación familiar 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Ginecología 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Sexología 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Urología 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Psicología y servicio de vacunación.
+                .row
+                  h5 Apoyo diagnóstico
+                  ul.lista-ul--color.fa-ul.mb-3
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Ecografías gineco-obstétrica
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Citología vaginal 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Colposcopia 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Laboratorio clínico 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Detección temprana (VPH)
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Asesoría en prueba VIH
+                .row
+                  h5 Reproducción asistida
+                  ul.lista-ul--color.fa-ul.mb-3
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Consulta y orientación en fertilidad masculina y femenina 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Consulta por genética
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Tratamientos medico/quirúrgicos 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Técnicas Asistidas de Reproducción Humana 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Banco de semen –Conservación de Óvulos (Donación y Conservación)
+                .row
+                  h5 Servicios quirúrgicos
+                  ul.lista-ul--color.fa-ul.mb-3
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Esterilización femenina por laparoscopia 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Esterilización masculina 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Cirugías ginecológicas 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Cirugías urológicas
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Cirugía General
+                .row
+                  h5 Interrupción voluntaria del embarazo
+                  ul.lista-ul--color.fa-ul.mb-3
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Orientación por profesionales de la salud 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Atención psicológica 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Procedimientos 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Consulta anticoncepción
+                .row
+                  h5 Programa para jóvenes
+                  ul.lista-ul--color.fa-ul.mb-3
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Sexualidad 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Derechos sexuales y reproductivos 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Métodos anticonceptivos 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Anticonceptivos de emergencia 
+                    li.mb-0 
+                      i.fas.fa-chevron-right
+                      | Infecciones de Transmisión Sexual ITS
 
-    p.mb-4(data-aos="fade") La RIAMP también cuenta con una serie de estrategias y componentes que se pueden observar en a continuación:
+    p.mb-4(data-aos="fade") La RIAMP también cuenta con una serie de estrategias y componentes que se pueden observar a continuación:
 
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-11
