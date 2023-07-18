@@ -282,7 +282,7 @@
           figure(data-aos="fade-down")
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/DJ34vo4-jGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video. Curso Atención Integral en Salud al Recién Nacido
+            figcaption Video. Política de Atención Integral en Salud (PAIS)
 
 
     Separador
