@@ -101,14 +101,19 @@
             | Control del recién nacido.
         .tarjeta.bg-6.p-4.mb-3
           p.mb-0 Una vez definidas las diferentes intervenciones, los indicadores y la información obtenida, se generan las acciones de mejora que oportunamente reflejan la calidad de la prestación de los servicios de salud, evaluando las intervenciones aplicadas y las competencias que identifican los factores de riesgo materno perinatales.
-        .tarjeta.bg-7.p-3
-          .row.align-items-center
-            .col-md-2
-              img.mx-auto(src='@/assets/curso/temas/t2/ico4.svg' alt='' style="width: 85px;")  
-            .col-md-10
-              p.text-white.mb-0 Para ampliar este tema y conocer los indicadores para el seguimiento y monitoreo de la RIAMP, se sugiere ver el documento completo del 
-                span.etiqueta.et2.fw-bold “Lineamiento técnico y operativo de la ruta integral de atención en salud materno perinatal”
-                |  del Ministerio de Salud. (MINSALUD)
+        
+        .tarjeta.bg-7.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img.mx-auto(src="@/assets/curso/temas/t2/ico4.svg" style="width: 85px;")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.text-white.mb-0 Para ampliar este tema y conocer los indicadores para el seguimiento y monitoreo de la RIAMP (anexo 12), se sugiere ver el documento completo del “Lineamiento técnico y operativo de la ruta integral de atención en salud materno perinatal” del Ministerio de Salud. (MINSALUD) 
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="('https://b30c6441-f98b-4465-8dfe-512406ea9cf3.filesusr.com/ugd/4583a1_56d4a72424ba457baa4bb6b613beee4b.pdf?index=true')" target="_blank")
+                    span Ver documento
+                    i.fas.fa-link
 
 
     Separador
@@ -132,7 +137,7 @@
             p Uno de los factores encontrados y que siempre se tiene en cuenta, es la edad de la gestante, ya que resulta siendo uno de los factores que causan más resultados adversos, al estar en el grupo de edad avanzada o edad temprana para la reproducción y el momento de la concepción: 
             p 
               span.t-purple.fw-bold Edad materna avanzada: 
-              | Tiene mayor riesgo para el desarrollo de las enfermedades que son encontradas en el embarazo como: prehipertensión, hipertensión, preeclampsia, síndrome de <em>Hellp</em>, eclampsia y diabetes las cuales condicionan más la probabilidad de complicaciones y el sufrimiento fetal. 
+              | Tiene mayor riesgo para el desarrollo de las enfermedades que son encontradas en el embarazo como: prehipertensión, hipertensión, preeclampsia, síndrome de Hellp, eclampsia y diabetes las cuales condicionan más la probabilidad de complicaciones y el sufrimiento fetal. 
             p 
               span.t-purple.fw-bold Edad materna baja: 
               | La edad temprana para el desarrollo de la concepción también es un factor de riesgo en las cuales se pueden encontrar malformaciones prematuras entre otros defectos congénitos. Esto sin mencionar que son un riesgo alto en la morbilidad durante su embarazo y sobre todo al trabajo de parto.

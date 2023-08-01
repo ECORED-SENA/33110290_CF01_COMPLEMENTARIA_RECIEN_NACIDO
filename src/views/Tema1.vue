@@ -48,7 +48,7 @@
           .col-lg-1.col-3.mb-4.mb-md-5.pe-md-0(data-aos="fade-right")
             img(src='@/assets/curso/temas/t1/adorn1.svg' alt='')  
           .col-lg-11.col-12.mb-4.mb-md-5(data-aos="fade-left")
-            p.mb-0 Los índices de mortalidad materno perinatal, son indicadores del buen desarrollo que maneja actualmente el país; esto en parte, a la búsqueda constante del mejoramiento en la salud pública.
+            p.mb-0 Los índices de mortalidad materno perinatal son indicadores del buen desarrollo que maneja actualmente el país; esto en parte, a la búsqueda constante del mejoramiento en la salud pública.
 
           .row
             .col-lg-4.mb-4(data-aos="fade-right")
@@ -136,7 +136,7 @@
                   p “La Resolución 3280 de 2018, por medio de la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención en Salud para la Población Materno Perinatal y se establecen las directrices para su operación” 
                   i.fas.fa-quote-right
                 .bloque-texto-d__autor 
-                  .h5.mb-0 - Ministerio de Salud y Protección Social –Resolución Número 3280 de (2018)
+                  .h5.mb-0 - Ministerio de Salud y Protección Social –Resolución Número 3280 de 2018
               .tarjeta.bg-7.p-3
                 .row.align-items-center 
                   .col-md-2

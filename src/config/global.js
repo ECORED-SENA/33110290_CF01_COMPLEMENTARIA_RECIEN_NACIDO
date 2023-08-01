@@ -152,7 +152,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/33110290_CF01_DU.pdf',
+        download: 'downloads/33110290_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -243,7 +243,7 @@ export default {
         'documento en el cual se establecen directrices específicas o políticas internas asociadas a un tema, proceso o método en particular.',
     },
     {
-      termino: 'Materno perinata',
+      termino: 'Materno perinatal',
       significado:
         'es el adecuado desarrollo de control prenatal y perinatal dicho control debe ser precoz, periódico, completo, de calidad y de amplia cobertura; siendo ofrecido a la mayor población posible y garantizando su fácil accesibilidad. ',
     },
