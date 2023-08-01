@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 En este componente formativo se desarrollo el marco normativo y una preparación adecuada en torno a las condiciones clínicas que deben ser aplicadas y definidas en la intervención individual y colectiva, de todos los neonatos y mujeres gestantes, tal como se expone en el siguiente esquema.
+    p.mb-5 En este componente formativo se desarrolló el marco normativo y una preparación adecuada en torno a las condiciones clínicas que deben ser aplicadas y definidas en la intervención individual y colectiva, de todos los neonatos y mujeres gestantes, tal como se expone en el siguiente esquema.
 
     .row.justify-content-center
       .col-lg-12.mb-5

@@ -28,7 +28,7 @@
     .row.justify-content-center   
       .col-md-10.mb-5(data-aos="fade")
         .titulo-sexto.color-acento-contenido.mb-3
-          p.mb-0 #[b Figura 6.] Ejemplo CLAP
+          p.mb-0 #[b Figura 8.] Ejemplo CLAP
         img(src='@/assets/curso/temas/t2/fig6.png' alt='La imagen presenta un ejemplo de diligenciamiento de una historia clínica perinatal, en el que se plasma la identificación de la persona y sus datos personales, los antecedentes familiares y personales, los datos obstetricios y previos y la información de la gestación actual.')
         figcaption.bg-gris.mt-1 
           p.mb-0 Nota. Control prenatal y atención materno perinatal. Tomado de Secretaria seccional de Salud Antioquia y Protección Social de Antioquia (2016).
@@ -44,7 +44,7 @@
     .row.justify-content-center   
       .col-md-7.mb-5(data-aos="fade")
         .titulo-sexto.color-acento-contenido.mb-3
-          p.mb-0 #[b Figura 7.] Aspectos de una historia clínica
+          p.mb-0 #[b Figura 9.] Aspectos de una historia clínica
         img(src='@/assets/curso/temas/t2/fig7.svg' alt='Los aspectos fundamentales a tener en cuenta en una historia clínica son el control preconcepcional, prenatal y puerperio.')
 
     .row(data-aos="fade-down")
@@ -106,7 +106,7 @@
             .col-md-2
               img.mx-auto(src='@/assets/curso/temas/t2/ico4.svg' alt='' style="width: 85px;")  
             .col-md-10
-              p.text-white.mb-0 Para ampliar este tema y conocer los indicadores para el seguimiento y monitoreo de la RIAMP (anexo 12), se sugoere ver el documento completo del 
+              p.text-white.mb-0 Para ampliar este tema y conocer los indicadores para el seguimiento y monitoreo de la RIAMP, se sugiere ver el documento completo del 
                 span.etiqueta.et2.fw-bold “Lineamiento técnico y operativo de la ruta integral de atención en salud materno perinatal”
                 |  del Ministerio de Salud. (MINSALUD)
 
@@ -132,7 +132,7 @@
             p Uno de los factores encontrados y que siempre se tiene en cuenta, es la edad de la gestante, ya que resulta siendo uno de los factores que causan más resultados adversos, al estar en el grupo de edad avanzada o edad temprana para la reproducción y el momento de la concepción: 
             p 
               span.t-purple.fw-bold Edad materna avanzada: 
-              | Tiene mayor riesgo para el desarrollo de las enfermedades que son encontradas en el embarazo como: prehipertensión, hipertensión, preeclampsia, síndrome de Hellp, eclampsia y diabetes las cuales condicionan más la probabilidad de complicaciones y el sufrimiento fetal. 
+              | Tiene mayor riesgo para el desarrollo de las enfermedades que son encontradas en el embarazo como: prehipertensión, hipertensión, preeclampsia, síndrome de <em>Hellp</em>, eclampsia y diabetes las cuales condicionan más la probabilidad de complicaciones y el sufrimiento fetal. 
             p 
               span.t-purple.fw-bold Edad materna baja: 
               | La edad temprana para el desarrollo de la concepción también es un factor de riesgo en las cuales se pueden encontrar malformaciones prematuras entre otros defectos congénitos. Esto sin mencionar que son un riesgo alto en la morbilidad durante su embarazo y sobre todo al trabajo de parto.
@@ -260,7 +260,7 @@
 
           .col-lg-8.mb-5(data-aos="fade")
             .titulo-sexto.color-acento-contenido
-              p.mb-0 #[b Figura 8.] Acciones de prevención de riesgo
+              p.mb-0 #[b Figura 10.] Acciones de prevención de riesgo
             img(src='@/assets/curso/temas/t2/fig8.svg' alt='Las acciones para prevenir el riesgo materno y perinatal son la aplicación de escalas, evaluación clínica, monitoreo de vitales y el registro de valoración.')
 
 
@@ -288,7 +288,7 @@
 
           .col-lg-8.mb-5(data-aos="fade")
             .titulo-sexto.color-acento-contenido
-              p.mb-0 #[b Figura 9.] Objetivos del control prenatal
+              p.mb-0 #[b Figura 11.] Objetivos del control prenatal
             img(src='@/assets/curso/temas/t2/fig9.svg' alt='Los objetivos del control prenatal buscan la idenficación de factores de riesgo, diágnostico gestacional, crecimiento fetal y promoción y prevención.')
 
           .row.justify-content-center(data-aos="fade-down")

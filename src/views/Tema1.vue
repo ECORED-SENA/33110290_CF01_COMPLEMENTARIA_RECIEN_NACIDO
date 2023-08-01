@@ -48,7 +48,7 @@
           .col-lg-1.col-3.mb-4.mb-md-5.pe-md-0(data-aos="fade-right")
             img(src='@/assets/curso/temas/t1/adorn1.svg' alt='')  
           .col-lg-11.col-12.mb-4.mb-md-5(data-aos="fade-left")
-            p.mb-0 Los índices de mortalidad materno perinatal son indicadores del buen desarrollo que maneja actualmente el país; esto en parte, a la búsqueda constante del mejoramiento en la salud pública.
+            p.mb-0 Los índices de mortalidad materno perinatal, son indicadores del buen desarrollo que maneja actualmente el país; esto en parte, a la búsqueda constante del mejoramiento en la salud pública.
 
           .row
             .col-lg-4.mb-4(data-aos="fade-right")
@@ -58,13 +58,15 @@
                 SlyderA(tipo="b")
                   .row
                     .col-md-12
-                      h4.t-purple Mortalidad Perinatal y Neonatal Tardía por semana epidemiológica
+                      .titulo-sexto.color-acento-contenido
+                        p.mb-0 #[b Figura 1.] Mortalidad Perinatal y Neonatal Tardía por semana epidemiológica
                       img(src='@/assets/curso/temas/t1/slide-img1.png' alt='La imagen representa la tendencia de mortalidad perinatal y neonatal tardía en Colombia entre los años 2008 al 2019. Se relaciona la razón de mortalidad y el número de casos por cada cada año. En esta gráfica, de acuerdo al Boletín Epidemiológico, del Instituto Nacional de Salud, indica que la razón de mortalidad perinatal y neonatal tardía en el 2019 fue de 15,1 muertes por 1 000 nacidos vivos. Luego, hay un descenso en el indicador respecto al año 2018, en que se reportó una tasa de 16,9 muertes por 1 000 nacidos vivos.')
                       figcaption.bg-gris 
                         p.mb-0 Nota. Tomado de Instituto Nacional de Salud (INS) (2018, p.2)
                   .row
                     .col-md-12
-                      h4.t-purple Mortalidad Perinatal y Neonatal Tardía por entidad territorial de residencia
+                      .titulo-sexto.color-acento-contenido
+                        p.mb-0 #[b Figura 2.] Mortalidad Perinatal y Neonatal Tardía por entidad territorial de residencia
                       img(src='@/assets/curso/temas/t1/slide-img2.png' alt='La imagen representa razón de mortalidad perinatal y neonatal tardía en Colombia por entidad territorial de serisdencia entre el 2018 al 2019. En esta gráfica, de acuerdo al Boletín Epidemiológico, del Instituto Nacional de Salud, indica que las cinco entidades territoriales que registran las razones más altas a nivel nacional son Vichada con 36,0, Chocó con 35,5, Vaupés con 30,6, Buenaventura con 29,8 y La Guajira con 24,0 muertes por 1000 nacidos vivos. Lo anterior puede tener una estrecha relación con la alta proporción de personas con necesidades básicas insatisfechas y el alto índice de pobreza multidimensional que concentran esas entidades territoriales.')
                       figcaption.bg-gris 
                         p.mb-0 Nota. Tomado de Instituto Nacional de Salud (INS). (2018, p.2)
@@ -134,7 +136,7 @@
                   p “La Resolución 3280 de 2018, por medio de la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención en Salud para la Población Materno Perinatal y se establecen las directrices para su operación” 
                   i.fas.fa-quote-right
                 .bloque-texto-d__autor 
-                  .h5.mb-0 - Ministerio de Salud y Protección Social –Resolución Número 3280 de 2018
+                  .h5.mb-0 - Ministerio de Salud y Protección Social –Resolución Número 3280 de (2018)
               .tarjeta.bg-7.p-3
                 .row.align-items-center 
                   .col-md-2
@@ -162,7 +164,7 @@
 
           .col-lg-6.mb-5(data-aos="fade")
             .titulo-sexto.color-acento-contenido
-              p.mb-0 #[b Figura 1.] Beneficios de la Ley Estatutaria
+              p.mb-0 #[b Figura 3.] Beneficios de la Ley Estatutaria
             img(src='@/assets/curso/temas/t1/fig1.svg' alt='Los beneficios de la Ley Estatutaria son: Mejorar el acceso a los servicios. Eliminar las autorizaciones para las atenciones en los servicios de urgencias. El fortalecimiento del control de servicios farmacéuticos. La incorporación de tendencias tecnológicas que facilitan la atención de los servicios de salud.')
 
           .col-lg-10
@@ -181,7 +183,7 @@
     .row.justify-content-center
       .col-lg-8.mb-5(data-aos="fade")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 2.] Ley Estatutaria de Salud
+          p.mb-0 #[b Figura 4.] Ley Estatutaria de Salud
         img(src='@/assets/curso/temas/t1/fig2.svg' alt='Esquema de las Generalidades de la Ley Estatutaria de salud en cuanto a la Ley, sus avances y sus retos.')
         figcaption.bg-gris.mt-3
           p.mb-0 Nota. Adaptado del Ministerio de Salud (2016)
@@ -193,7 +195,7 @@
     .row.justify-content-center
       .col-lg-8.mb-5(data-aos="fade")
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 3.] Ley 1751 de 2015
+          p.mb-0 #[b Figura 5.] Ley 1751 de 2015
         img(src='@/assets/curso/temas/t1/fig3.svg' alt='El diagrama expone los componentes de la Ley Estatutaria N° 1751 de 2015.')
         figcaption.bg-gris.mt-3
           p.mb-0 Nota. Adaptado de Secretaria Distrital de Salud. Alcaldía de Bogotá. (2018).
@@ -267,7 +269,7 @@
           .row.justify-content-center.mb-4
             .col-lg-4.mb-4(data-aos="fade-right")
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 4.] Ruta de la Política de Atención Integral en Salud
+                p.mb-0 #[b Figura 6.] Ruta de la Política de Atención Integral en Salud
               img(src='@/assets/curso/temas/t1/fig4.svg' alt='La imagen presenta el marco conceptual de la Política de Atención Integral en Salud e el que se muestra la interacción coordinada que debe existir entre las entidades territoriales a cargo de la gestión de la salud pública, los aseguradores (EPS) y los prestadores de servicios. (IPS)')
               figcaption.bg-white.mt-2
                 p.mb-0 Nota. Tomado de Minsalud (2016, p.31).
@@ -587,7 +589,7 @@
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-11
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 5.]  Estrategias de la RIAMP
+          p.mb-0 #[b Figura 7.]  Estrategias de la RIAMP
         img(src='@/assets/curso/temas/t1/fig5.svg' alt='La imagen presenta cada una de las etapas de servicio que existen en la Ruta Integral de Atención en Salud – Materno Perinatal')
 
 
